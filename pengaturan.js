@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Merhabastories",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyDKmrgGFK_wFKp7qPlpzy2cZkXlBDNyzgI",
     whatsappAdmin: "628978859611" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
